@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghana-raikar&show_icons=true&locale=en&layout=compact" alt="meghana-raikar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghana-raikar&show_icons=true&locale=en" alt="meghana-raikar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghana-raikar&" alt="meghana-raikar" /></p>
